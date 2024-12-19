@@ -1,2 +1,2 @@
 # Python_lessons
-the Main reason is learing python language
+The main reason is learing python language and improving myself.
